@@ -1,3 +1,7 @@
+# Project
+
+- [Design Autocomplete or Typeahead Suggestions | Front-end Mock Interview | Chakde System Design Ep. 7](https://www.youtube.com/watch?v=IKRbWT6LqIY)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
